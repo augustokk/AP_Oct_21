@@ -2,5 +2,7 @@
 "This is my second added thing on this file"
 
 "Change added in dazzling_feature branch to provoke conflict"
-"nao mudou de primeira, e agora, mudara?"
+
+"Tentar fazer stash"
+
 
