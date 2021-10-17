@@ -5,4 +5,4 @@
 
 "Tentar fazer stash"
 " CHANGE MADE AS COLLABORATOR"
-
+"Collaborator inserting new line here"
