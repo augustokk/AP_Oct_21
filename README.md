@@ -4,5 +4,5 @@
 "Change added in dazzling_feature branch to provoke conflict"
 
 "Tentar fazer stash"
-
+" CHANGE MADE AS COLLABORATOR"
 
